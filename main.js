@@ -1,0 +1,14 @@
+var a_console= "this is my first console project";
+var first_name= "ranbeer ";
+var last_name= "kapoor";
+var a = 15;
+var ab = 5;
+var abc = 50;
+var abcd = 2;
+var full_name=first_name+last_name;
+console.log(a_console);
+console.log(full_name);
+console.log(a);
+console.log(ab);
+console.log(abc);
+console.log(abcd);
